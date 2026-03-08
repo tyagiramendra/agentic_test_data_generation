@@ -1,4 +1,4 @@
-# test_data_agent
+# Agentic Test Data Generation
 ## Overview
 This project is an Agentic AI workflow designed to automate the generation of synthetic test data from documentation (PDFs). It leverages **LangGraph** for orchestration, **PyMuPDF4LLM** for document parsing, and Multimodal LLMs for image-to-text conversion and Knowledge Graph extraction.
 
